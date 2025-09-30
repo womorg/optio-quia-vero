@@ -1,10 +1,10 @@
 {
   "name": "@womorg/optio-quia-vero",
-  "version": "14.35.351",
+  "version": "14.35.352",
   "description": "",
   "main": "index.js",
   "scripts": {},
-  "author": "womhla6s",
+  "author": "maggaopen",
   "license": "MIT",
   "dependencies": {
     "@womorg/adipisci-maxime-facilis": "^1.0.0",
